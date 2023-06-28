@@ -1,3 +1,4 @@
+# Numbers and Maths
 # This code prints calculations on chickens.
 print("I will now count my chickens:")
 # Output the no of hens and roasters after calculations.
